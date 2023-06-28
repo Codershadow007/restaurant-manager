@@ -1,2 +1,2 @@
 # restaurant-manager
-i developed this to demonstrate smooth working of restaurant using python.
+developed using python implemented to demonstrate the working of a restaurant managed in an online scenerio. 
